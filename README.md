@@ -5,4 +5,4 @@ JaCoCo:
 ![Branches](.github/badges/branches.svg)  
 
 Coveralls:  
-[![Coverage Status](https://coveralls.io/repos/github/Blueerr/MTSS-2/badge.svg?branch=develop)](https://coveralls.io/github/Blueerr/MTSS-2?branch=develop)  
+[![Coverage Status](https://coveralls.io/repos/github/Blueerr/MTSS-2/badge.svg?branch=master&kill_cache=1)](https://coveralls.io/github/Blueerr/MTSS-2?branch=master)  
